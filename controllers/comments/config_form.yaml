@@ -1,0 +1,10 @@
+name: Comments
+form: $/thulana/portfolio/models/comment/fields.yaml
+modelClass: Thulana\Portfolio\Models\Comment
+defaultRedirect: thulana/portfolio/comments
+create:
+    redirect: 'thulana/portfolio/comments/update/:id'
+    redirectClose: thulana/portfolio/comments
+update:
+    redirect: thulana/portfolio/comments
+    redirectClose: thulana/portfolio/comments

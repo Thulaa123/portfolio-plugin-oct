@@ -1,0 +1,20 @@
+plugin:
+    name: 'thulana.portfolio::lang.plugin.name'
+    description: 'thulana.portfolio::lang.plugin.description'
+    author: Thulana
+    icon: oc-icon-user
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: Porfolio
+        url: /
+        icon: icon-user
+        sideMenu:
+            side-menu-item:
+                label: projects
+                url: thulana/portfolio/projects
+                icon: icon-tasks
+            side-menu-item2:
+                label: Message
+                url: thulana/portfolio/comments
+                icon: icon-comment

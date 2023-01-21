@@ -1,0 +1,14 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table thulana_portfolio_projects'
+    - builder_table_create_thulana_portfolio_projects.php
+1.0.3:
+    - 'Updated table thulana_portfolio_projects'
+    - builder_table_update_thulana_portfolio_projects.php
+1.0.4:
+    - 'Created table thulana_portfolio_comments'
+    - builder_table_create_thulana_portfolio_comments.php
+1.0.5:
+    - 'Updated table thulana_portfolio_comments'
+    - builder_table_update_thulana_portfolio_comments.php

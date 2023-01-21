@@ -1,0 +1,14 @@
+fields:
+    name:
+        label: Name
+        span: auto
+        type: text
+    email:
+        label: Email
+        span: auto
+        type: text
+    comment:
+        label: Comment
+        span: full
+        size: ''
+        type: textarea

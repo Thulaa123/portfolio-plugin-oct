@@ -1,0 +1,10 @@
+name: Projects
+form: $/thulana/portfolio/models/project/fields.yaml
+modelClass: Thulana\Portfolio\Models\Project
+defaultRedirect: thulana/portfolio/projects
+create:
+    redirect: 'thulana/portfolio/projects/update/:id'
+    redirectClose: thulana/portfolio/projects
+update:
+    redirect: thulana/portfolio/projects
+    redirectClose: thulana/portfolio/projects

@@ -1,0 +1,14 @@
+columns:
+    id:
+        label: 'Message ID'
+        type: number
+        searchable: true
+    name:
+        label: Name
+        type: text
+    email:
+        label: Email
+        type: text
+    comment:
+        label: Message
+        type: text

@@ -1,0 +1,10 @@
+<?php if($record->image){ ?>
+<img src="<?= $value->getThumb(80,80, 'crop') ?>">
+<!-- <span class="list-badge badge-success">
+        <i class="icon-check"></i>
+    </span> -->
+<?php }else{ ?>
+<span class="list-badge badge-warning">
+    <i class="icon-exclamation"></i>
+</span>
+<?php } ?>

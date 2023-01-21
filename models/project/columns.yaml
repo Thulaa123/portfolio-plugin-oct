@@ -1,0 +1,12 @@
+columns:
+    id:
+        label: 'Project ID'
+        type: number
+        searchable: true
+    image:
+        label: 'Project Image'
+        type: partial
+        path: ~/plugins/thulana/portfolio/models/project/_image.htm
+    title:
+        label: 'Project Title'
+        type: text

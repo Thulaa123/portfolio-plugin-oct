@@ -1,0 +1,22 @@
+fields:
+    image:
+        label: 'Project Image'
+        mode: image
+        useCaption: true
+        thumbOptions:
+            mode: crop
+            extension: auto
+        span: full
+        type: fileupload
+    title:
+        label: 'Project Title'
+        span: full
+        type: text
+    github:
+        label: 'Github link'
+        span: auto
+        type: text
+    demo:
+        label: 'Demo link'
+        span: auto
+        type: text

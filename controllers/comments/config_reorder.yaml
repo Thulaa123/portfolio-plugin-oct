@@ -1,0 +1,4 @@
+title: Comments
+modelClass: Thulana\Portfolio\Models\Comment
+toolbar:
+    buttons: reorder_toolbar
