@@ -1,5 +1,5 @@
 # OctoberCMS Portfolio plugin
-October cms Plugin to add your potojects and get them using APIs
+OctoberCMS Plugin to add your potojects and get them using APIs
 
 ## Checkout
 1. create a folder 'thulana' in plugins folder
