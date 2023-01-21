@@ -8,4 +8,4 @@ OctoberCMS Plugin to add your potojects and get them using APIs
 git clone https://github.com/Thulaa123/portfolio-plugin-oct.git
 ```
 3. Rename 'portfolio-plugin-oct' file to 'portfolio'
-4. Now the plugins ready to use 🚀
+4. Now the plugin is ready to use 🚀
